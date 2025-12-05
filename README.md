@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 
 /**
  * Bouncing Ball Animation
- * A simple Java Swing animation demonstrating a bouncing 123 ball with physics simulation
+ * A simple Java Swing animation demonstrating a bouncing test-ind-api#fyinformation#cc ball with physics simulation
  */
 public class BouncingBallAnimation extends JPanel implements ActionListener {
     
